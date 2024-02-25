@@ -1,0 +1,6 @@
+{
+    "config": {
+        "nodeModuleFormat": "esm"
+    },
+    "version": 1
+}
